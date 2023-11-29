@@ -1,5 +1,7 @@
 body{
   background-color: lightpink;
+  border: 5px solid black;
+  margin-left: 100px;
 }
 
 header{
@@ -28,6 +30,7 @@ h3 {
 }
 
 p{
+  margin: 5px;
   font-family: 'Times New Roman', Times, serif;
 }
 
